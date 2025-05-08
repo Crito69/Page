@@ -1,0 +1,26 @@
+header{
+    text-align: center;
+}
+h1{
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 15px;
+}
+footer{
+    background-color: dodgerblue;
+    text-align: center;
+}
+ul{
+    background-color: gainsboro;
+}
